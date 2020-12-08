@@ -1,0 +1,98 @@
+* {
+  padding: 10px;
+}
+h1 {
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  margin: 5px 0 0 120px;
+}
+
+#All {
+  background-color: rgb(8, 8, 8);
+  color: white;
+  font-size: 17px;
+  margin: 20px 10px 20px 65px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#Poetry {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#Fiction {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#Biography {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#auth {
+  font-size: 25px;
+  cursor: pointer;
+}
+
+#title {
+  font-size: 25px;
+  cursor: pointer;
+}
+
+#authors {
+  background-color: rgb(8, 8, 8);
+  color: white;
+  font-size: 17px;
+  margin: 20px 0 5px 20px;
+  border-radius: 10px;
+}
+
+#poeAut {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+}
+#bioAut {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+}
+
+#ficAut {
+  background-color: skyblue;
+  font-size: 17px;
+  border-radius: 10px;
+}
+
+#display {
+  width: 320px;
+  height: 240px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgb(241, 240, 240);
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin: 10px 30px 40px 90px;
+}
+
+#displayAuthors {
+  width: 320px;
+  height: 240px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: rgb(241, 240, 240);
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin: 10px 30px 40px 90px;
+}

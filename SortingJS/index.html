@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Filtering and Sorting</title>
+    <link rel="stylesheet" href="style/style.css" type="text/css" />
+  </head>
+  <body>
+    <h1>Books by Genre</h1>
+    <button type="button" id="All">All</button>
+    <button type="button" id="Poetry">Poetry</button>
+    <button type="button" id="Fiction">Fiction</button>
+    <button type="button" id="Biography">Biographies</button>
+
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th id="auth">Author</th>
+            <th id="title">Title</th>
+          </tr>
+        </thead>
+        <tbody id="display"></tbody>
+      </table>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
